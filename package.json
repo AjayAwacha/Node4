@@ -1,0 +1,15 @@
+{
+  "name": "nodejspractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "createServer.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node 4import.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
